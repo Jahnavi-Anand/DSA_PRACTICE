@@ -2,6 +2,55 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "patternFive",
+      "request": "launch",
+      "mainClass": "patternFive",
+      "projectName": "DSA_PRACTICE_89e20d6e"
+    },
+    {
+      "type": "java",
+      "name": "patternFour",
+      "request": "launch",
+      "mainClass": "patternFour",
+      "projectName": "DSA_PRACTICE_89e20d6e"
+    },
+    {
+      "type": "java",
+      "name": "patternThree",
+      "request": "launch",
+      "mainClass": "patternThree",
+      "projectName": "DSA_PRACTICE_89e20d6e"
+    },
+    {
+      "type": "java",
+      "name": "patternTwo",
+      "request": "launch",
+      "mainClass": "patternTwo",
+      "projectName": "DSA_PRACTICE_89e20d6e"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "DSA_PRACTICE_89e20d6e"
+    },
+    {
+      "type": "java",
+      "name": "patternOne",
+      "request": "launch",
+      "mainClass": "patternOne",
+      "projectName": "DSA_PRACTICE_89e20d6e"
+    },
+    {
+      "type": "java",
+      "name": "FirstClass",
+      "request": "launch",
+      "mainClass": "FirstClass",
+      "projectName": "DSA_PRACTICE_89e20d6e"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
